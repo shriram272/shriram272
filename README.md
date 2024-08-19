@@ -36,11 +36,12 @@
 
 I'm currently pursuing my final year of Bachelor's from NIT Jalandhar. My research focuses on intersection of Robotics , Control Systems and VR.
 
-I worked as a research intern at NUS Singapore and IISC Bangalore, contributing to two papers to be submitted in ICRA 2025.
-My work was related to Gaussian Splattting 3D reconstruction SLAM in IISc Bangalore.
+I worked as a research intern at NUS Singapore and IISC Bangalore, contributing to two papers to be submitted in ICRA 2025.My work was related to Gaussian Splattting 3D reconstruction SLAM in IISc Bangalore.
+
 My previous internship at NUS focussed on multi-agent next best view exploration and working on Pursuit-Evasion problem using a drone swarm.
+
 I spent three years as a student researcher at NIT Jalandhar and as Automation Department Head in EV club of college working on diverse robotics projects, publishing research, and competing in national level competitions with two times champion award in IKR and ESVC. 
 
 I'm excited to further explore the field of robotics through academic endeavors, aiming to innovate in perception-based robotics and contribute to its evolution.
 
-📫 Reach out to me at Gutlapalli.N@northeastern.edu for collaborations and discussions.
+📫 Reach out to me at dshriram272@gmail.com for collaborations and discussions.
