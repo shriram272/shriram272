@@ -6,7 +6,7 @@
   <a href="https://drive.google.com/file/d/1eT5nwHnduQKdD_KpjWtPLgs4dsSIeGMO/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-f2f542?style=for-the-badge&logoColor=white" alt="Resume Badge">
   </a>
-  <a href="www.linkedin.com/in/shriram-damodaran-7b0346167">
+  <a href="https://www.linkedin.com/in/shriram-damodaran-7b0346167">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
