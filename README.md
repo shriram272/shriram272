@@ -18,7 +18,7 @@
 
 🔭 Research Interests: Mobile Robotics ,SLAM ,Autonomous Vehicle Perception, Control Systems, Computer Vision, Sensor Fusion,
 
-🏆 Research Intern at Indian Instituteof Science, Bangalore , India
+🏆 Research Intern at Indian Institute of Science, Bangalore , India
 
 🏆 Former Research Intern at National Institute of Singapore (NUS) , Singapore
 
