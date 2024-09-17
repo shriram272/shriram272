@@ -111,14 +111,6 @@ I'm excited to further explore the field of robotics through academic endeavors,
 </a>
 <a>
     <img src="https://img.shields.io/badge/Raspberry%20PI-731461?style=for-the-badge&logoColor=white" alt="Website Badge">
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriram272&layout=compact)
-
-
-  
 </a>
 <a>
     <img src="https://img.shields.io/badge/Nvidia%20Jetson%20AGX-6d5e61?style=for-the-badge&logoColor=white" alt="Website Badge">
