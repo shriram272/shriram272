@@ -16,7 +16,7 @@
 
 🎓 Bachelor's in Electrical Engineering at National Institute of Technology , Jalandhar | 🤖 Robotics Enthusiast
 
-🔭 Research Interests: Mobile Robotics ,SLAM ,Autonomous Vehicle Perception, Control Systems, Computer Vision, Sensor Fusion,
+🔭 Research Interests: Mobile Robotics ,SLAM ,Perception, Control Systems, Multi-agent Systems, Computer Vision, Sensor Fusion
 
 🏆 Research Intern at Indian Institute of Science, Bangalore , India
 
