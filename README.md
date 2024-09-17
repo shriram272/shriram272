@@ -119,5 +119,3 @@ I'm excited to further explore the field of robotics through academic endeavors,
 
 ---
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriram272&layout=compact)
